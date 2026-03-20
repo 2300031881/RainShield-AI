@@ -116,7 +116,7 @@ To ensure system reliability:
 
 ---
 
-##  Key Features
+Key Features
 
 -  AI-powered dynamic pricing  
 -  Weekly subscription model  
@@ -127,7 +127,7 @@ To ensure system reliability:
 
 ---
 
-## Example Scenario
+Example Scenario
 
 A delivery rider in Bangalore is working during heavy rainfall:
 
@@ -141,7 +141,7 @@ No manual action required from the worker
 
 ---
 
-## Future Enhancements
+Future Enhancements
 
 - Integration with real-time APIs  
 - Advanced machine learning models  
@@ -151,7 +151,7 @@ No manual action required from the worker
 
 ---
 
-## Demo Video
+Demo Video
 https://youtu.be/vkMqvnYJzV0
 
 ---
