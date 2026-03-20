@@ -3,14 +3,14 @@ AI-powered parametric insurance for food delivery workers
 
 ---
 
-## Problem
+# Problem
 Delivery workers from platforms like Zomato and Swiggy rely heavily on daily earnings. However, their income is highly vulnerable to external disruptions such as heavy rainfall, extreme weather, and environmental conditions.
 
 Studies show that gig workers can lose **20–30% of their income** due to such uncontrollable factors. Currently, there is no insurance solution that protects their **loss of income**, leaving them financially unstable during these events.
 
 ---
 
-##  Solution
+#  Solution
 RainShield AI is an AI-powered parametric insurance platform designed specifically to protect delivery workers from income loss.
 
 The platform:
@@ -23,14 +23,14 @@ The platform:
 
 ---
 
-##  Target Users
+#  Target Users
 - Food delivery riders (Zomato, Swiggy)  
 - Workers dependent on daily/weekly income  
 - Urban gig workers affected by weather disruptions  
 
 ---
 
-##  Workflow
+#  Workflow
 
 1. User registers with basic details (name, city, platform)  
 2. System assigns a risk profile using AI  
@@ -44,8 +44,7 @@ The platform:
 Entire process is **automated with no manual claim filing**
 
 ---
-
-## Weekly Pricing Model
+# Weekly Pricing Model
 
 The pricing is designed based on risk levels:
 
@@ -61,17 +60,16 @@ Pricing factors include:
  This aligns with gig workers’ **weekly earning cycle**
 
 ---
-
-## Parametric Triggers
+# Parametric Triggers
 
 RainShield AI uses predefined conditions to trigger payouts automatically.
 
-### Environmental Triggers:
+# Environmental Triggers:
 - Rainfall > 20mm  
 - Extreme weather alerts  
 - Flood warnings  
 
-### Impact:
+# Impact:
 - Reduced working hours  
 - Fewer deliveries  
 - Loss of income  
@@ -80,7 +78,7 @@ Once triggered, payout is automatic (no verification delay)
 
 ---
 
-## AI Usage
+# AI Usage
 
 AI is used to enhance efficiency and accuracy:
 
@@ -95,7 +93,7 @@ AI is used to enhance efficiency and accuracy:
 
 ---
 
-## Fraud Detection
+# Fraud Detection
 
 To ensure system reliability:
 
@@ -106,7 +104,7 @@ To ensure system reliability:
 
 ---
 
-##  Tech Stack
+# Tech Stack
 
 - **Frontend:** React (for user interface)  
 - **Backend:** Node.js or SpringBoot (API and logic handling)  
@@ -116,7 +114,7 @@ To ensure system reliability:
 
 ---
 
-Key Features
+ # Key Features
 
 -  AI-powered dynamic pricing  
 -  Weekly subscription model  
@@ -127,7 +125,7 @@ Key Features
 
 ---
 
-Example Scenario
+ # Example Scenario
 
 A delivery rider in Bangalore is working during heavy rainfall:
 
@@ -141,7 +139,7 @@ No manual action required from the worker
 
 ---
 
-Future Enhancements
+# Future Enhancements
 
 - Integration with real-time APIs  
 - Advanced machine learning models  
@@ -151,7 +149,7 @@ Future Enhancements
 
 ---
 
-Demo Video
+# Demo Video
 https://youtu.be/vkMqvnYJzV0
 
 ---
