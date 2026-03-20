@@ -60,3 +60,6 @@ RainShield AI is an AI-powered insurance platform that:
 ## Prototype 
 https://www.figma.com/proto/YYQIWA4GUVQZgjRPsSAjTc/Untitled?node-id=2-630&t=iSFN58NnXoH1Th9K-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
+## Demo Video
+https://drive.google.com/file/d/18SVmOOOwgBGvnErz-c9j3ECSbaHbwjZR/view?usp=sharing
+
