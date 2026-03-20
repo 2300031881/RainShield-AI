@@ -4,6 +4,7 @@ AI-powered parametric insurance for food delivery workers
 ---
 
  Problem
+ 
 Delivery workers from platforms like Zomato and Swiggy rely heavily on daily earnings. However, their income is highly vulnerable to external disruptions such as heavy rainfall, extreme weather, and environmental conditions.
 
 Studies show that gig workers can lose **20–30% of their income** due to such uncontrollable factors. Currently, there is no insurance solution that protects their **loss of income**, leaving them financially unstable during these events.
@@ -11,6 +12,7 @@ Studies show that gig workers can lose **20–30% of their income** due to such 
 ---
 
   Solution
+  
 RainShield AI is an AI-powered parametric insurance platform designed specifically to protect delivery workers from income loss.
 
 The platform:
@@ -24,6 +26,7 @@ The platform:
 ---
 
   Target Users
+  
 - Food delivery riders (Zomato, Swiggy)  
 - Workers dependent on daily/weekly income  
 - Urban gig workers affected by weather disruptions  
@@ -66,11 +69,13 @@ Pricing factors include:
 RainShield AI uses predefined conditions to trigger payouts automatically.
 
  Environmental Triggers:
+ 
 - Rainfall > 20mm  
 - Extreme weather alerts  
 - Flood warnings  
 
  Impact:
+ 
 - Reduced working hours  
 - Fewer deliveries  
 - Loss of income  
