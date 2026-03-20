@@ -55,7 +55,7 @@ RainShield AI is an AI-powered insurance platform that:
 - GPS mismatch detection  
 - Duplicate claims prevention  
 
----
+
 
 ## Prototype 
 https://www.figma.com/proto/YYQIWA4GUVQZgjRPsSAjTc/Untitled?node-id=2-630&t=iSFN58NnXoH1Th9K-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
